@@ -1,5 +1,5 @@
 # ParkingLotSystem
-Project Designed for my final project regarding National Dilploma.
+Project Designed for my final project regarding National Dilploma. The software part of the project was developed in java and the hardware part in Arduino.
 It still has some room for improvements, especially in the way that the administrator makes the searches for the information
 on the database. There are simple things that were not finished due to time, but I am still working on it. Even thought is an unfinished
 project, I still am proud of it, because I learnt a lot when it comes down to hardware and software communication and also the interaction between Server and Client using normal sockets. 
