@@ -7,9 +7,13 @@ In this project, There was a serial communication between Java application and A
 
 Because the File exceeds 25Mb, It was not possible to upload the Project. Therefore, I uploaded the documentation and some images, just to have an idea on how the project worked theoretically and how the project looks. For more information Regarding the project, please read the Documentation attached on the Report folder.
 
+Software Part of the Project
 ![capture](https://cloud.githubusercontent.com/assets/20063600/16629130/8f55a192-43ac-11e6-975c-b5731b8a8f7e.PNG)
 ![capture1](https://cloud.githubusercontent.com/assets/20063600/16629131/8f5a674a-43ac-11e6-8ed5-544d884cfc45.PNG)
 ![capture2](https://cloud.githubusercontent.com/assets/20063600/16629132/8f607d60-43ac-11e6-81a6-4ea3f0b5a438.PNG)
 ![capture3](https://cloud.githubusercontent.com/assets/20063600/16629133/8f67a0ea-43ac-11e6-9d27-c8dec127ba0c.PNG)
 ![capture5](https://cloud.githubusercontent.com/assets/20063600/16629134/8f6e647a-43ac-11e6-920a-6afdec7ced7f.PNG)
 ![capture4](https://cloud.githubusercontent.com/assets/20063600/16629135/8f743b98-43ac-11e6-87e0-b4b8f5168426.PNG)
+
+Hardware Part of the Project where an Arduino Circuit was built
+![13702297_1060634957360763_1217200136_o](https://cloud.githubusercontent.com/assets/20063600/16815270/0ef0936a-4931-11e6-95a6-8bc6a7c70fa2.jpg)
